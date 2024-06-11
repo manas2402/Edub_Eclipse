@@ -1,6 +1,6 @@
 package AbstractClasses;
 
-final class bikee
+class bikee
 {
 	private final int speed_limit = 100;
 	
